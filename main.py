@@ -11,7 +11,7 @@ from mitigations import create_mitigations_prompt, get_mitigations, get_mitigati
 from test_cases import create_test_cases_prompt, get_test_cases, get_test_cases_azure, get_test_cases_google, get_test_cases_mistral, get_test_cases_ollama
 from dread import create_dread_assessment_prompt, get_dread_assessment, get_dread_assessment_azure, get_dread_assessment_google, get_dread_assessment_mistral, get_dread_assessment_ollama, dread_json_to_markdown
 
-# ------------------ Helper Functions ------------------ #
+# ------------------ Helper Functions -------yy----------- #
 
 # Function to get user input for the application description and key details
 def get_input():
